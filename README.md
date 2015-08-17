@@ -1,6 +1,8 @@
 # Buzz's Beamer mtheme
 A lighter version of Matthias Vogelgesang's [mtheme](https://github.com/matze/mtheme), modified to fit my personal needs and preferences, maybe even yours! I doubt it.
 
+Might actually not work
+
 ## License
 The theme itself is licensed under a [Creative Commons Attribution-ShareAlike
 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This
