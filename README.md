@@ -1,7 +1,9 @@
 # Buzz's Beamer mtheme
 A lighter version of Matthias Vogelgesang's [mtheme](https://github.com/matze/mtheme), modified to fit my personal needs and preferences, maybe even yours! I doubt it.
 
-Might actually not work
+The objective of this project is to create an easy to deploy .cls file. 
+
+~~Might actually not work.~~ Working and somewhat stable, still wip.
 
 ## License
 The theme itself is licensed under a [Creative Commons Attribution-ShareAlike
